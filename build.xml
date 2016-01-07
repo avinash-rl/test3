@@ -4,9 +4,9 @@
 	<property name="tomcat-manager-url" value="http://192.168.152.25:8080/manager/text" />
 	<property name="tomcat-manager-username" value="gbids" />
 	<property name="tomcat-manager-password" value="tomcat" />
-	<property name="project-name" value="AntExample" />
+	<property name="project-name" value="Ant-new" />
 	<property name="warpath" value="./dist/${project-name}.war" />
-	<property name="catalina-ant-dir" value="./dist/${project-name}.war" />
+	<property name="catalina-ant-dir" value="./dist/AntExample1.war" />
 	<property name="appserver.lib" value="D://apache-tomcat-7.0.67//lib" />
 	<property name="appserver.home" value="D://apache-tomcat-7.0.67" />
 
